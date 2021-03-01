@@ -1,0 +1,19 @@
+{
+    "login" : 
+    {
+        "id" : "biyawara",
+        "password" : "koscom@1",
+        "cert" : "choi9880@1"
+    },
+
+    "tr_spec"  :
+    [
+        {
+            "tr_name" : "FRF_MST",
+            "item" : "TEWT"
+
+        }
+    ]
+
+
+}
